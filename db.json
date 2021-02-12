@@ -1,0 +1,144 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Oppo A5",
+      "catogory": "Oppo",
+      "price": "10000.00",
+      "image": "https://www.droidafrica.net/wp-content/uploads/2019/09/IMG_20190912_084231_907-600x600.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Oppo A31",
+      "catogory": "Oppo",
+      "price": "12000.00",
+      "image": "https://konattugroup.com/wp-content/uploads/2020/09/oppo_a31_4gb_64gb_03_negro_ad_l.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Redmi Note 8",
+      "catogory": "Redmi",
+      "price": "15000.00",
+      "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/02DCACAD-C230-779F-34E5-19E31FAD5F02.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Galaxy M21",
+      "catogory": "Samsung",
+      "price": "18000.00",
+      "image": "https://static.digit.in/default/db80c6f12355307b593c0af60ad5403adbd2ab06.jpeg?tr=1200"
+    },
+    {
+      "id": "5",
+      "name": "Galaxy F41",
+      "catogory": "Samsung",
+      "price": "14499.00",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/galaxy_m31_samsung.JPG"
+    },
+    {
+      "id": "6",
+      "name": "Redmi Note 8",
+      "catogory": "Redmi",
+      "price": "15000.00",
+      "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/02DCACAD-C230-779F-34E5-19E31FAD5F02.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Oppo A5",
+      "catogory": "Oppo",
+      "price": "10000.00",
+      "image": "https://www.droidafrica.net/wp-content/uploads/2019/09/IMG_20190912_084231_907-600x600.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Oppo A31",
+      "catogory": "Oppo",
+      "price": "12000.00",
+      "image": "https://konattugroup.com/wp-content/uploads/2020/09/oppo_a31_4gb_64gb_03_negro_ad_l.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Redmi Note 8",
+      "catogory": "Redmi",
+      "price": "15000.00",
+      "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/02DCACAD-C230-779F-34E5-19E31FAD5F02.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Redmi Note 8",
+      "catogory": "Redmi",
+      "price": "15000.00",
+      "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/02DCACAD-C230-779F-34E5-19E31FAD5F02.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Oppo A5",
+      "catogory": "Oppo",
+      "price": "10000.00",
+      "image": "https://www.droidafrica.net/wp-content/uploads/2019/09/IMG_20190912_084231_907-600x600.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Oppo A31",
+      "catogory": "Oppo",
+      "price": "12000.00",
+      "image": "https://konattugroup.com/wp-content/uploads/2020/09/oppo_a31_4gb_64gb_03_negro_ad_l.jpg"
+    },
+    {
+      "id": "13",
+      "name": "Redmi Note 8",
+      "catogory": "Redmi",
+      "price": "15000.00",
+      "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/02DCACAD-C230-779F-34E5-19E31FAD5F02.jpg"
+    },
+    {
+      "id": "14",
+      "name": "Oppo A5",
+      "catogory": "Oppo",
+      "price": "10000.00",
+      "image": "https://www.droidafrica.net/wp-content/uploads/2019/09/IMG_20190912_084231_907-600x600.jpg"
+    },
+    {
+      "id": "15",
+      "name": "Oppo A31",
+      "catogory": "Oppo",
+      "price": "12000.00",
+      "image": "https://konattugroup.com/wp-content/uploads/2020/09/oppo_a31_4gb_64gb_03_negro_ad_l.jpg"
+    },
+    {
+      "id": "16",
+      "name": "Redmi Note 8",
+      "catogory": "Redmi",
+      "price": "15000.00",
+      "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/02DCACAD-C230-779F-34E5-19E31FAD5F02.jpg"
+    },
+    {
+      "id": "17",
+      "name": "Oppo A5",
+      "catogory": "Oppo",
+      "price": "10000.00",
+      "image": "https://www.droidafrica.net/wp-content/uploads/2019/09/IMG_20190912_084231_907-600x600.jpg"
+    },
+    {
+      "id": "18",
+      "name": "Oppo A31",
+      "catogory": "Oppo",
+      "price": "12000.00",
+      "image": "https://konattugroup.com/wp-content/uploads/2020/09/oppo_a31_4gb_64gb_03_negro_ad_l.jpg"
+    },
+    {
+      "id": "19",
+      "name": "Redmi Note 8",
+      "catogory": "Redmi",
+      "price": "15000.00",
+      "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/02DCACAD-C230-779F-34E5-19E31FAD5F02.jpg"
+    },
+    {
+      "id": "20",
+      "name": "Redmi Note 8",
+      "catogory": "Redmi",
+      "price": "15000.00",
+      "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/02DCACAD-C230-779F-34E5-19E31FAD5F02.jpg"
+    }
+  ]
+}
